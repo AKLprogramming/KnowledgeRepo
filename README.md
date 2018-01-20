@@ -3,6 +3,13 @@ https://aklprogramming.github.io/KnowledgeRepo/
 ## Knowledge Repo
 Collection of links for books
 
+Purpose: To provide a comprehensive links of books to reduce significant amount of time finding books
+
+
+Books link
+Library Genesis
+
+
 
 You can use the [editor on GitHub](https://github.com/AKLprogramming/KnowledgeRepo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
