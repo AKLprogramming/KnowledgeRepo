@@ -6,9 +6,8 @@ Collection of links for books
 Purpose: To provide a comprehensive links of books to reduce significant amount of time finding books
 
 
-Books link
-
-[Library Genesis](http://libgen.io)
+Resources link
+- Bulleted [Library Genesis](http://libgen.io)
 
 
 
