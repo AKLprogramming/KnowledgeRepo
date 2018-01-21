@@ -3,16 +3,16 @@ https://aklprogramming.github.io/KnowledgeRepo/
 ## Knowledge Repo
 Collection of links for books
 
-Purpose: To provide a comprehensive links of books to reduce significant amount of time finding books
+Purpose: To provide a comprehensive links of books to reduce significant amount of time finding them
 
 
 Resources link
 - [Library Genesis](http://libgen.io)
 
 
-Topics
+#Topics
 
-Humanities
+##Humanities
 
 -	Anthropology
 
@@ -27,7 +27,7 @@ Humanities
 
 
 
-Social Sciences
+##Social Sciences
 - Economics
 - Geography
 - Interdisciplinary studies
@@ -45,14 +45,50 @@ Social Sciences
 
 
 
-Natural Sciences
+##Natural Sciences
+
+-	Biology
+-	Chemistry
+-	Earth sciences
+-	Physics
+-	Space sciences
+
+
+##Formal sciences
+-	Computer sciences
+	- [OSSU Open Source Society University Computer Science Curriculum](https://github.com/ossu/computer-science)
+	- [Reddit ch0wt book list](https://www.reddit.com/r/books/comments/ch0wt/a_reading_list_for_the_selftaught_computer/)
+-	Logic
+-	Mathematics
+	- [How to be a pure mathematician (or statistician) blogspot](http://hbpms.blogspot.sg/)
+-	Pure mathematics
+-	Applied mathematics
+-	Statistics
+-	Systems science
 
 
 
+##Professions and applied sciences
+-	Agriculture
+-	Architecture and design
+-	Business
+-	Divinity
+-	Education
+-	Engineering and technology
+-	Environmental studies and forestry
+- 	Family and consumer science
+-	Human physical performance and recreation
+-	Journalism, media studies and communication
+-	Law
+-	Library and museum studies
+-	Medicine
+-	Military sciences
+-	Public administration
+-	Public policy
+-	Social work
+-	Transportation
 
 
-
-Professions and applied sciences
 
 
 
