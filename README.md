@@ -1,4 +1,4 @@
-## Knowledge Repo
+# Knowledge Repo
 Collection of links for books
 
 Purpose: To provide a comprehensive links of books to reduce significant amount of time finding them
@@ -8,9 +8,9 @@ Resources link
 - [Library Genesis](http://libgen.io)
 
 
-#Topics
+## Topics
 
-Humanities
+### Humanities
 - Anthropology
 - Archaeology
 - History
@@ -18,7 +18,7 @@ Humanities
 - Philosophy
 	
 
-Social Sciences
+### Social Sciences
 - Economics
 - Geography
 - Interdisciplinary studies
@@ -30,14 +30,14 @@ Social Sciences
 - Psychology
 - Sociology
 
-Natural Sciences
+### Natural Sciences
 - Biology
 - Chemistry
 - Earth sciences
 - Physics
 - Space sciences
 
-Formal sciences
+### Formal sciences
 - Computer sciences
 	- [OSSU Open Source Society University Computer Science Curriculum](https://github.com/ossu/computer-science)
 	- [Reddit ch0wt book list](https://www.reddit.com/r/books/comments/ch0wt/a_reading_list_for_the_selftaught_computer/)
@@ -49,7 +49,7 @@ Formal sciences
 - Statistics
 - Systems science
 
-Professions and applied sciences
+### Professions and applied sciences
 - Agriculture
 - Architecture and design
 - Business
