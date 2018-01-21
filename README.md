@@ -10,6 +10,34 @@ Resources link
 - Bulleted [Library Genesis](http://libgen.io)
 
 
+Topics
+
+Humanities
+
+
+
+
+
+Social Sciences
+
+
+
+
+
+
+
+
+Natural Sciences
+
+
+
+
+
+
+Professions and applied sciences
+
+
+
 
 You can use the [editor on GitHub](https://github.com/AKLprogramming/KnowledgeRepo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
