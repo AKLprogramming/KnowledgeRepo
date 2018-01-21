@@ -13,8 +13,17 @@ Resources link
 Topics
 
 Humanities
-- ASD
 
+-	Anthropology
+
+-	Archaeology
+
+- History
+
+- Linguistics and languages
+
+-	Philosophy
+	
 
 
 
