@@ -7,7 +7,7 @@ Purpose: To provide a comprehensive links of books to reduce significant amount 
 
 
 Resources link
-- Bulleted [Library Genesis](http://libgen.io)
+- [Library Genesis](http://libgen.io)
 
 
 Topics
