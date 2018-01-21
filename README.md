@@ -28,16 +28,16 @@ Humanities
 
 
 Social Sciences
--Economics
--Geography
--Interdisciplinary studies
--Area studies
--Ethnic and cultural studies
--Gender and sexuality studies
--Organizational studies
--Political science
--Psychology
--Sociology
+- Economics
+- Geography
+- Interdisciplinary studies
+- Area studies
+- Ethnic and cultural studies
+- Gender and sexuality studies
+- Organizational studies
+- Political science
+- Psychology
+- Sociology
 
 
 
