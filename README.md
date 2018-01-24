@@ -41,7 +41,7 @@ Resources link
 - Computer sciences
 	- [OSSU Open Source Society University Computer Science Curriculum](https://github.com/ossu/computer-science)
 	- [Reddit ch0wt book list](https://www.reddit.com/r/books/comments/ch0wt/a_reading_list_for_the_selftaught_computer/)
-	- [Self Study Computer Science](https://teachyourselfcs.com/)
+	- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - Logic
 - Mathematics
 	- [How to be a pure mathematician (or statistician) blogspot](http://hbpms.blogspot.sg/)
