@@ -6,6 +6,8 @@ Purpose: To provide a comprehensive links of books to reduce significant amount 
 
 Resources link
 - [Library Genesis](http://libgen.io)
+- [Book Tracker](https://booktracker.org/)
+- [Ru Tracker](https://rutracker.org/forum/index.php)
 
 
 ## Topics
