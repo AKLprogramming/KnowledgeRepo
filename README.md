@@ -9,7 +9,7 @@ Resources link
 - [Book Tracker](https://booktracker.org/)
 - [Ru Tracker](https://rutracker.org/forum/index.php)
 
-#MOOC
+# MOOC
 - [Coursera](https://www.coursera.org)
 - [EDX](https://www.edx.org) compilation of video lectures including MIT
 - [Udacity](https://www.udacity.com) 
