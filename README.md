@@ -8,6 +8,9 @@ Resources link
 - [Library Genesis](http://libgen.io)
 - [Book Tracker](https://booktracker.org/)
 - [Ru Tracker](https://rutracker.org/forum/index.php)
+- [Coursera](https://www.coursera.org)
+- [EDX](https://www.edx.org)
+- [Udacity](https://www.udacity.com)
 
 
 ## Topics
