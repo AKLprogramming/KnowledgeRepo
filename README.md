@@ -8,9 +8,11 @@ Resources link
 - [Library Genesis](http://libgen.io)
 - [Book Tracker](https://booktracker.org/)
 - [Ru Tracker](https://rutracker.org/forum/index.php)
+
+#MOOC
 - [Coursera](https://www.coursera.org)
-- [EDX](https://www.edx.org)
-- [Udacity](https://www.udacity.com)
+- [EDX](https://www.edx.org) compilation of video lectures including MIT
+- [Udacity](https://www.udacity.com) 
 
 
 ## Topics
