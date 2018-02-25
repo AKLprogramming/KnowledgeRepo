@@ -42,6 +42,7 @@ Resources link
 - Chemistry
 - Earth sciences
 - Physics
+	- [A Physics Book List](http://math.ucr.edu/home/baez/physics/Administrivia/booklist.html)
 - Space sciences
 
 ### Formal sciences
