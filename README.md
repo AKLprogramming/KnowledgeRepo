@@ -58,25 +58,7 @@ Resources link
 - Statistics
 - Systems science
 
-### Professions and applied sciences
-- Agriculture
-- Architecture and design
-- Business
-- Divinity
-- Education
-- Engineering and technology
-- Environmental studies and forestry
-- Family and consumer science
-- Human physical performance and recreation
-- Journalism, media studies and communication
-- Law
-- Library and museum studies
-- Medicine
-- Military sciences
-- Public administration
-- Public policy
-- Social work
-- Transportation
+
 
 
 
