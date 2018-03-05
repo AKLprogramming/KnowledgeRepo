@@ -43,6 +43,7 @@ Resources link
 - Earth sciences
 - Physics
 	- [A Physics Book List](http://math.ucr.edu/home/baez/physics/Administrivia/booklist.html)
+	- [Feynman Lectures](http://www.feynmanlectures.caltech.edu/)
 - Space sciences
 
 ### Formal sciences
